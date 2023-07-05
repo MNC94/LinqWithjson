@@ -1,0 +1,15 @@
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\obj\Debug\net6.0\LinqJoingConcepts.csproj.AssemblyReference.cache
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\obj\Debug\net6.0\LinqJoingConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\obj\Debug\net6.0\LinqJoingConcepts.AssemblyInfoInputs.cache
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\obj\Debug\net6.0\LinqJoingConcepts.AssemblyInfo.cs
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\obj\Debug\net6.0\LinqJoingConcepts.csproj.CoreCompileInputs.cache
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\bin\Debug\net6.0\LinqJoingConcepts.exe
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\bin\Debug\net6.0\LinqJoingConcepts.deps.json
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\bin\Debug\net6.0\LinqJoingConcepts.runtimeconfig.json
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\bin\Debug\net6.0\LinqJoingConcepts.dll
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\bin\Debug\net6.0\LinqJoingConcepts.pdb
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\obj\Debug\net6.0\LinqJoingConcepts.dll
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\obj\Debug\net6.0\refint\LinqJoingConcepts.dll
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\obj\Debug\net6.0\LinqJoingConcepts.pdb
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\obj\Debug\net6.0\LinqJoingConcepts.genruntimeconfig.cache
+C:\Users\chermalingam.n\source\repos\LinqJoingConcepts\LinqJoingConcepts\obj\Debug\net6.0\ref\LinqJoingConcepts.dll
